@@ -231,6 +231,9 @@ def mainmenu():
             for i in teml[:(len(teml)) + 1]:
                 print(i, end="  ")
             print("\n\t|\t")
+            if teml[-1] == f"{Fore.GREEN}10{Style.RESET_ALL}":
+                emtp()
+                print(f"\t|\t{Fore.GREEN}You have Completed the Game C:{Style.RESET_ALL}")
             emtp()
             print(f"\t|\t{Fore.CYAN}[]{Style.RESET_ALL} - Current Level\n\t|\t{Fore.RED}Red - Locked{Style.RESET_ALL}\n\t|\t{Fore.GREEN}Green - Completed that level{Style.RESET_ALL}\n\t|\t")
             chl = input(f"\t|\t{Fore.YELLOW}Click Enter to go back:{Style.RESET_ALL}")
@@ -505,6 +508,3 @@ sintro()
 createdatab()
 createtabs()
 starti()
-
-
-
