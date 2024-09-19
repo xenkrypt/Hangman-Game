@@ -1,0 +1,28 @@
+Are you ready for a linguistic adventure filled with challenges and rewards?
+
+Getting Started:
+For first-time players, a quick and seamless registration is required.
+Once registered, you can log in anytime to continue your linguistic quest.
+
+The Hangman Challenge:
+Your mission, should you choose to accept it, is to guess a secret word letter by letter.
+But beware! You have a limited number of incorrect guesses allowed.
+Can you decipher the word and save the hangman from getting hanged?
+
+Scoring Mechanism:
+Here's the twist, your score is tied to your performance.
+The fewer incorrect guesses you make, the higher your score.
+But be cautious; every misstep brings you closer to a lower score.
+With 10 levels of varying difficulty, each level presents a unique challenge.
+
+Leaderboard Glory:
+Showcase your linguistic supremacy on the leaderboard.
+Aim for the top spot, and let your hangman skills be known to all.
+
+Reset and Rise:
+Completed the challenge and hungry for more?
+Feel free to reset your score and level and take on the Hangman Challenge anew.
+Each attempt is a chance to improve your score and climb the leaderboard ranks.
+
+Are you ready to unlock the mysteries of words and prove yourself as the ultimate Hangman champion? 
+Let the games begin!
