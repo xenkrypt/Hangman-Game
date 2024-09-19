@@ -53,7 +53,7 @@ colorama
 <u>**There's no need for manual installation of these packages, as they will be automatically installed by the program if they're not already present in your Python environment.**</u>
 ## Test Video
 
-https://github.com/user-attachments/assets/ae56e5ba-36fa-4932-a061-f26da96cd06e
+https://github.com/user-attachments/assets/bcc89f24-cf08-4464-9d25-ac1e50de278c
 
 ## Contacts
 - Discord: wrecker696
