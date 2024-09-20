@@ -1,5 +1,5 @@
 #HANGMAN Game
-#Made by Tharunkrishna T H
+#Made by Tharunkrishna T H (xenkrypt)
 #Credits: (https://github.com/dolph/dictionary/blob/master/popular.txt for the words)
 #Discord: wrecker696
 
